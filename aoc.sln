@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "aoc-lib", "aoc-lib\aoc-lib.csproj", "{C862B50C-4C36-47F1-B22B-07042B2F278F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "aoc", "aoc\aoc.csproj", "{4DAEB14A-3EBF-425F-B93B-300BA58C7D61}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C862B50C-4C36-47F1-B22B-07042B2F278F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C862B50C-4C36-47F1-B22B-07042B2F278F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C862B50C-4C36-47F1-B22B-07042B2F278F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C862B50C-4C36-47F1-B22B-07042B2F278F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4DAEB14A-3EBF-425F-B93B-300BA58C7D61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DAEB14A-3EBF-425F-B93B-300BA58C7D61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DAEB14A-3EBF-425F-B93B-300BA58C7D61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DAEB14A-3EBF-425F-B93B-300BA58C7D61}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
